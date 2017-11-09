@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_icon_titles">
+        <item>美食</item>
+        <item>电影</item>
+        <item>酒店住宿</item>
+        <item>休闲娱乐</item>
+        <item>外卖</item>
+        <item>自助餐</item>
+        <item>KTV</item>
+        <item>机票/火车票</item>
+        <item>周边游</item>
+        <item>美甲美睫</item>
+        <item>火锅</item>
+        <item>生日蛋糕</item>
+        <item>甜品饮品</item>
+        <item>水上乐园</item>
+        <item>汽车服务</item>
+        <item>美发</item>
+        <item>丽人</item>
+        <item>景点</item>
+        <item>足疗按摩</item>
+        <item>运动健身</item>
+        <item>健身</item>
+        <item>超市</item>
+        <item>买菜</item>
+        <item>今日新单</item>
+        <item>小吃快餐</item>
+        <item>面膜</item>
+        <item>洗浴/汗蒸</item>
+        <item>母婴亲子</item>
+        <item>生活服务</item>
+        <item>婚纱摄影</item>
+        <item>学习培训</item>
+        <item>家装</item>
+        <item>结婚</item>
+        <item>全部分配</item>
+    </string-array>
+
+    <string-array name="ad_descript">
+        <item>第一页广告</item>
+        <item>第二页广告</item>
+        <item>第三页广告</item>
+        <item>第四页广告</item>
+        <item>第五页广告</item>
+    </string-array>
+
+    <!-- 主界面－begin -->
+    <array name="home_tab_titles">
+        <item>@string/home_index_text</item>
+        <item>@string/home_study_text</item>
+        <item>@string/home_message_text</item>
+        <item>@string/home_settings_text</item>
+    </array>
+    <array name="home_tab_icons">
+        <item>@drawable/home_index_selector</item>
+        <item>@drawable/home_study_selector</item>
+        <item>@drawable/home_message_selector</item>
+        <item>@drawable/home_settings_selector</item>
+    </array>
+    <!-- 主界面－end -->
+
+</resources>

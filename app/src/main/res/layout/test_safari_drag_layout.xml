@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ytang.james.dailyp.pulltorefresh.library.draglayout.DragFullViewLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 必须用LinearLayout(RelativeLayout设置好相对位置也可以)包起来，因为DragFullViewLayout是直接extends ViewGroup，会默认的第一个UI占据整个屏幕-->
+    <!-- id: header_view和content_view是必须的，控件中写死了，不能更改-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/header_view"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/vip_bg_0"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/content_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <include
+                android:id="@+id/container"
+                layout="@layout/safari_icon_view_pager_container" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <include
+                android:id="@+id/ad_container"
+                layout="@layout/safari_ad_view_pager_container" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</com.ytang.james.dailyp.pulltorefresh.library.draglayout.DragFullViewLayout>

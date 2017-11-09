@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/James/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_6ffdda0fa9abe5958e3fdd0e91f2521594682246.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_47b56100e36ddda681bfedd51f0567923ce1de99.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1b839e41cea9c55d5decbf886eeb538830a9e4b7.jar" />
+    </item>
+    <item
+        jar="/Users/James/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_6e1d40d0da2482c7176ef47bdc26decf823945f7.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ef72404f6bb8108511056b5ba9a1afbc49a86bf6.jar" />
+    </item>
+    <item
+        jar="/Users/James/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_a9a6ac2c5469004a5a76c2645a18b97322ff43e3.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b5ed38942a571b7e906cf328872544b7723c1778.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.1_9ee41270f8407506c0bd8c9efaf1fdc0ebec1b5b.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_986e522a9f255929b5062bf8a68c44443ca623b7.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3bc192bd5587eb060feeb818ec0793e883f018b1.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_53d4c301b8b84a6cac9233a49b7f20c39e24cc09.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="75a71dd92070bd5d926bd504a0a730ad0503076d">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/instant-run_77abb2f95b069309cf7953c95c39ed7714fb2ef8.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cbd70781fa517a7653e611d79171365f9cead342.jar" />
+    </item>
+    <item
+        jar="/Users/James/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.1/cabf146d220dcd70a2972166cd1bfae200b97eff/adapter-rxjava-2.0.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.1_9e02e858de6c17ff43bc80a8016967ca8549653b.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_64288560ae3ad2f81a367fc872f6aa3c84313193.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_07142f6d271c6ca68e3a2046c6bc82da4d71a79a.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_faa9491147590075def6944a37311f1da77a9a7e.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_84c8e7dab39155efbe07154deff0a82f89eee888.jar" />
+    </item>
+    <item
+        jar="/Users/James/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/rxjava-1.1.1_a8c0cd082a1fd5e69c7b743fe9956f4ece256d86.jar" />
+    </item>
+    <item
+        jar="/Users/James/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/okio-1.8.0_61f68c3f78a0d3017f7f71d5a6d86b3df89daccc.jar" />
+    </item>
+    <item
+        jar="/Users/James/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_3a5425adcabfed25de660b49b61bbb32d720d0b0.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1afb878017aa303505ee5c277a30fa77f7943821.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="eaec4d1261c6af7268c70385e545ecea62ab7d49">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7f68df279bd2208c7fac6bbaae273c18dbf53726.jar" />
+    </item>
+    <item
+        jar="/Users/James/works/DialyP/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/James/works/DialyP/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e2fbdb519f3e30be14f3149c25463ab1b2f215f4.jar" />
+    </item>
+
+</items>

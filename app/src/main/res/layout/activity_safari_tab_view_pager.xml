@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ytang.james.dailyp.business.safari.activity.SafariTabViewPagerActivity">
+
+    <com.ytang.james.dailyp.common.view.tab.PagerSlidingTabStrip
+        android:id="@+id/pager_tab_strip"
+        android:layout_alignParentBottom="true"
+        style="@style/home_tab_strip_no_indicator"/>
+
+
+    <com.ytang.james.dailyp.business.safari.adapter.SlideViewPager
+        android:id="@+id/view_pager"
+        android:layout_above="@id/pager_tab_strip"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

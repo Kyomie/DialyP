@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="tag_pager_position_key"/>
+    <item type="id" name="tag_presenter_key"/>
+    <item type="id" name="tag_card_presenter_key"/>
+    <item type="id" name="tag_card_type_key"/>
+
+    <item name="header_view" type="id"/>
+    <item name="drag_view" type="id"/>
+    <item name="content_view" type="id"/>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="refreshable_widget_indicator_right_padding">10dp</dimen>
+    <dimen name="refreshable_widget_indicator_corner_radius">12dp</dimen>
+    <dimen name="refreshable_widget_indicator_internal_padding">4dp</dimen>
+    <dimen name="refreshable_widget_header_footer_left_right_padding">0dp</dimen>
+    <dimen name="refreshable_widget_header_footer_top_bottom_padding">10dp</dimen>
+    <dimen name="refreshable_widget_header_footer_internal_padding">20dp</dimen>
+    <dimen name="refreshable_widget_header_height">62dp</dimen>
+    <dimen name="refreshable_widget_imageview_height">75dp</dimen>
+
+</resources>

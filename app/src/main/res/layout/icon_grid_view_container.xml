@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ytang.james.dailyp.business.safari.view.IconGridViewContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.ytang.james.dailyp.common.view.CommonGridView
+        android:id="@+id/grid_view"
+        android:numColumns="5"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</com.ytang.james.dailyp.business.safari.view.IconGridViewContainer>

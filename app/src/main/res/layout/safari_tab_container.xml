@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ytang.james.dailyp.business.safari.view.SafariTabContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_tab_safari"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:drawablePadding="1dp"
+        android:textColor="@color/home_bottom_bar_item_text_color_selector"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/tv_tab_msg_safari"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/tv_tab_safari"
+        android:background="@drawable/bg_red_dot"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:visibility="gone"/>
+
+</com.ytang.james.dailyp.business.safari.view.SafariTabContainer>

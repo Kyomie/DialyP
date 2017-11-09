@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="home_tab_strip_no_indicator">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:background">#e3e3f0</item>
+        <item name="pDividerColor">#00000000</item>
+        <item name="pDividerPadding">0dp</item>
+        <item name="pTabPaddingLeftRight">0dp</item>
+        <item name="pShouldExpand">true</item>
+        <item name="pIndicatorColor">#4dc6f8</item>
+        <item name="pIndicatorHeight">0dp</item>
+        <item name="pUnderlineHeight">0dp</item>
+    </style>
+</resources>
